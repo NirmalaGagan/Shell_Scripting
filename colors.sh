@@ -13,4 +13,6 @@ echo -e "\e[35m I am printing Cyan Color \e[0m"
 # How to print background color ?
 
 echo -e "\e[41;33m Welcome to colors \e[0m "
-echo -e "\e[47;32m Avatar2 is a very good filn \e[0m "
+echo -e "\e[47;32m Avatar2 is a very good film \e[0m "
+echo -e "\e[32m Kantara \e[0m"
+echo -e "\e[56m Kantara  1234\e[0m"

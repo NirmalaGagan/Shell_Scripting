@@ -9,4 +9,5 @@
 echo Hello World
 
 echo Line1 
-echo Line2
+echo Line2\n Line 3
+echo Line
