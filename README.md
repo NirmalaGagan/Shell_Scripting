@@ -1,2 +1,3 @@
+#!/bin/bash
 # Shell_scripting
-Learning
+Learning shell scripting
